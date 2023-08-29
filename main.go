@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"gitlab/assai-clientes/lambda-chapter-products/entities"
-	"gitlab/assai-clientes/lambda-chapter-products/services"
-	"gitlab/assai-clientes/lambda-chapter-products/usecases"
+	"github/hallex-abreu/lambda-chapter-products/entities"
+	"github/hallex-abreu/lambda-chapter-products/services"
+	"github/hallex-abreu/lambda-chapter-products/usecases"
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"

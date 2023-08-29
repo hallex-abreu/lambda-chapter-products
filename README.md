@@ -2,7 +2,9 @@
 lambda-chapter-products
 
 //GERAR
-GOARCH=amd64 GOOS=linux go build handler.go
+GOARCH=amd64 GOOS=linux go build main.go
+
+zip main.zip main
 
 
 {

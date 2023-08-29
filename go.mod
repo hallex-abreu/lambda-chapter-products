@@ -1,4 +1,4 @@
-module gitlab/assai-clientes/lambda-chapter-products
+module github/hallex-abreu/lambda-chapter-products
 
 go 1.20
 

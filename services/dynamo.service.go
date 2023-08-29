@@ -2,7 +2,7 @@ package services
 
 import (
 	"fmt"
-	"gitlab/assai-clientes/lambda-chapter-products/entities"
+	"github/hallex-abreu/lambda-chapter-products/entities"
 	"log"
 
 	"github.com/aws/aws-sdk-go/aws"
